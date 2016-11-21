@@ -1,0 +1,4 @@
+{
+  "compact": "true",
+  "presets": ["react", "es2015"]
+}
