@@ -1,3 +1,0 @@
-'use strict';var _hello=require('../components/hello.jsx');var _react=require('react');var _react2=_interopRequireDefault(_react);var _reactDom=require('react-dom');var _reactDom2=_interopRequireDefault(_reactDom);function _interopRequireDefault(obj){return obj&&obj.__esModule?obj:{default:obj};}function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor)){throw new TypeError("Cannot call a class as a function");}}var Thing=function Thing(name){_classCallCheck(this,Thing);this.name=name;};var someThing=new Thing('thing with a name');alert('Hello '+someThing.name);_reactDom2.default.render(_react2.default.createElement(_hello.Hello,null),document.getElementById('app'));
-
-//# sourceMappingURL=index-compiled.js.map
